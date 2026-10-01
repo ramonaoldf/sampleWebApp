@@ -22,7 +22,6 @@ The Plugin uses [hammer.js, A javascript library for multi-touch gestures](http:
 ## Quick start: Get the plugin
 Three quick start options are available:
 
-- [Download the latest release](https://github.com/ixisio/bootstrap-touch-carousel/archive/master.zip)
 - Clone the repo: `git clone git://github.com/ixisio/bootstrap-touch-carousel.git`
 - Install with Bower: `bower install bootstrap-touch-carousel`.
 - Add as Bootstrap git submodule `git submodule add git://github.com/ixisio/bootstrap-touch-carousel.git /vendor/your-sm`
@@ -60,7 +59,6 @@ Please read through the official twbs [contributing guidelines](https://github.c
 
 Moreover, if your pull request contains JavaScript patches or features, you must include relevant unit tests.
 
-Editor preferences are available in the editor config for easy use in common text editors. Read more and download plugins at [editorconfig.org](http://editorconfig.org).
 
 ### Compiling CSS and JavaScript
 > Bootstrap uses [Grunt](http://gruntjs.com/) with convenient methods for working with the framework. It's how we compile our code, run tests, and more. To use it, install the required dependencies as directed and then run some Grunt commands.

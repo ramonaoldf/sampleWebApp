@@ -10,7 +10,6 @@ To get started, check out [http://getbootstrap.com](http://getbootstrap.com)!
 
 Three quick start options are available:
 
-* [Download the latest release](https://github.com/twbs/bootstrap/zipball/3.0.0-wip).
 * Clone the repo: `git clone git://github.com/twbs/bootstrap.git`.
 * Install with [Bower](http://bower.io): `bower install bootstrap`.
 
@@ -43,7 +42,6 @@ Learn more about using Jekyll by reading their [documentation](http://jekyllrb.c
 
 Documentation for v2.3.2 has been made available for the time being at [http://getbootstrap.com/2.3.2/](http://getbootstrap.com/2.3.2/) while folks transition to Bootstrap 3.
 
-[Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
 
 
 
@@ -60,7 +58,6 @@ From the command line:
 
 When completed, you'll be able to run the various Grunt commands provided from the command line.
 
-**Unfamiliar with `npm`? Don't have node installed?** That's a-okay. npm stands for [node packaged modules](http://npmjs.org/) and is a way to manage development dependencies through node.js. [Download and install node.js](http://nodejs.org/download/) before proceeding.
 
 ### Available Grunt commands
 
@@ -88,7 +85,6 @@ Please read through our guidelines for contributing to Bootstrap. Included are d
 
 More over, if your pull request contains JavaScript patches or features, you must include relevant unit tests. All HTML and CSS should conform to the [Code Guide](http://github.com/mdo/code-guide), maintained by [Mark Otto](http://github.com/mdo).
 
-Editor preferences are available in the [editor config](.editorconfig) for easy use in common text editors. Read more and download plugins at [http://editorconfig.org](http://editorconfig.org).
 
 
 
